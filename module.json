@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "Dungeon Acronyms",
+  "author": "madcow",
+  "description": "Liste les accronymes pour les instances (WIP)",
+  "version": "1.0",
+  "options": {
+      "niceName": "Dungeon Acronyms",
+      "guiName": "<font color='#FF007F'>Dungeon Acronyms</font>&nbsp;",
+      "reloadable": false
+  }
+}
