@@ -3,6 +3,7 @@
   "name": "Dungeon Acronyms",
   "author": "madcow",
   "description": "Liste les accronymes pour les instances (WIP)",
+  "servers": ["https://raw.githubusercontent.com/laurent974/tera-dungeon-acronyms/main/"],
   "version": "1.0",
   "options": {
       "niceName": "Dungeon Acronyms",
